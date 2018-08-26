@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marsmining/tele/issues"
   },
-  "homepage": "https://github.com/marsmining/tele#readme"
+  "homepage": "https://github.com/marsmining/tele#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
