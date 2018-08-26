@@ -1,0 +1,38 @@
+* Summary
+
+todo
+
+* Jekyll
+
+#+BEGIN_EXAMPLE
+$ gem install bundler jekyll
+$ jekyll new my-awesome-site
+$ cd my-awesome-site
+$ bundle exec jekyll serve
+#+END_EXAMPLE
+
+- Gem: Package manager for Ruby
+
+#+BEGIN_EXAMPLE
+$ jekyll new tele
+$ cd tele
+$ git init
+#+END_EXAMPLE
+
+* Bootstrap
+
+Create the =package.json= file:
+
+#+BEGIN_EXAMPLE
+$ npm init
+#+END_EXAMPLE
+
+- NPM: Package manager for Javascript
+
+#+BEGIN_EXAMPLE
+$ npm install bootstrap --save-dev
+#+END_EXAMPLE
+
+* Questions
+
+- Upgrading Jekyll?
